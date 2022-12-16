@@ -1,0 +1,4 @@
+#+TITLE: Cpp Programming Notes
+#+AUTHOR: Arka Barua
+
+[[https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS][Neso Academy]]
